@@ -1,3 +1,4 @@
+import Logical.CoffeeMaker;
 
 public class Main {
 

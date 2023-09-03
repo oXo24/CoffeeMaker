@@ -1,6 +1,11 @@
+package Logical;
+
+import Consumables.*;
+import Interfaces.Drink;
+
 import java.util.Scanner;
 
-class CoffeeMaker {
+public class CoffeeMaker {
     private final CoffeeMenu coffeeMenu;
     private final Scanner scanner;
 

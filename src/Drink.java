@@ -1,3 +1,0 @@
-interface Drink {
-    void prepare();
-}
